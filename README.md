@@ -1,0 +1,1 @@
+A LoRa-based smart agriculture monitoring system helps farmers keep an eye on their fields from a distance. It uses sensors to check things like soil moisture and temperature and sends this information wirelessly over long distances. This way, farmers can make better decisions about watering and caring for their crops, leading to healthier plants and better harvests.
